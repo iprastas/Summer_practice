@@ -1,0 +1,6 @@
+﻿  function.cpp
+C:\Users\Anastasiya.VVS-NB\source\repos\summer_practice\summer_practice\function.cpp(32,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Anastasiya.VVS-NB\source\repos\summer_practice\summer_practice\function.cpp(55,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Anastasiya.VVS-NB\source\repos\summer_practice\summer_practice\function.cpp(69,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Anastasiya.VVS-NB\source\repos\summer_practice\summer_practice\function.cpp(83,21): warning C4018: <: несоответствие типов со знаком и без знака
+  summer_practice.vcxproj -> C:\Users\Anastasiya.VVS-NB\source\repos\summer_practice\Debug\summer_practice.exe
