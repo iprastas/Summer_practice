@@ -19,6 +19,7 @@ def solve(rebus):
     zero = digits[0]
 
     for guess in itertools.permutations(digits, len(letters)):
+        
         if zero not in guess[:n]: #если не первые буквы слов (чтоб не равнялись 0)
             equation = rebus.translate(dict(zip(letters, guess))) #вместо букв подставляем цифры
 
